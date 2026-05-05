@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fast-csv": "^5.0.5",
+    "glob": "^11.0.3",
+    "stream-chain": "^3.4.0",
+    "stream-json": "^1.9.1",
+    "string-template": "^1.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
